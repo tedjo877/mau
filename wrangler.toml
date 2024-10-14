@@ -7,6 +7,5 @@ workers_dev = true
 [vars]
 PROXYIP = "35.219.15.90"
 UUID = "75954589-c3ae-42a8-bb8d-506911bb92b2"
-routes = [
-  { pattern = "punya.bmkg.xyz", custom_domain = true }
-]
+routes = 
+pattern = "punya.bmkg.xyz", custom_domain = true 
